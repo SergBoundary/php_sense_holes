@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9;
+}
+
+::selection { background: #3aa; color: #fff }
+::-moz-selection { background: #3aa; color: #fff }
+::-webkit-selection { background: #3aa; color: #fff }
+::-ms-selection { background: #3aa; color: #fff }
