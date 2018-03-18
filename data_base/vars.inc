@@ -5,5 +5,5 @@ $servername = "localhost";
 $database = 'senses';
 $username = 'root';
 $password = '';
-$domenname = 'http://senses.org';
+$domenname = 'http://senses.pro';
 ?>
